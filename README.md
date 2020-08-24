@@ -1,6 +1,6 @@
 # fateBot
 Siteden karakter kağıdı almk ve zar atmak için yaptığım bir script.
-Not: Kodun çalışması için bilgisayarınızda python ve requirements.txt dosyasında bulunan modüller olmalı. Modülleri yüklemek için pythonu yüklediklten sonra komut satırına pip install modlAdı şeklinde sırayla yazmanız yeterli. Örnek:
+Not: Kodun çalışması için bilgisayarınızda python ve requirements.txt dosyasında bulunan modüller olmalı. Modülleri yüklemek için pythonu yüklediklten sonra komut satırına pip install modülAdı şeklinde sırayla yazmanız yeterli. Örnek:
 >pip install Pillow
 
 
