@@ -7,7 +7,7 @@ Başka kullanmak isteyen olursa diye nasıl kurulacağı ve kullanılacağı:
 ![GitHub Logo](/tutor/1.jpg)
  
  Uygulama için bir isim giriyoruz:
-![GitHub Logo](/tutor/2.jpg)
+![GitHub Logo](/tutor/2.png)
 
  Buradan botun resmini ayarlayabilirsiniz:
 ![GitHub Logo](/tutor/3.jpg)
@@ -29,4 +29,4 @@ Başka kullanmak isteyen olursa diye nasıl kurulacağı ve kullanılacağı:
  "!yzarat +x"        4 adet Fate zarına yanına eklenen - veya + değeri ekliyor.
  "!karakterAl link"   kaderoyunu.com'daki karakter özelliklerini alıp yazı kanalına resim olarak atıyor.
  Örnekler:
-![GitHub Logo](/tutor/8.png)
+![GitHub Logo](/tutor/9.png)
