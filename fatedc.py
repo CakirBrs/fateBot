@@ -1,5 +1,5 @@
 import discord
-tokendc='NzQ2MzI5OTgwNjQzOTY2OTg2.Xz-v9Q.IfJhqn58q1I3csaS-sUYWi356XY'
+tokendc='TOKEN' #Buraya discord token'ınızı yazın.
 
 from discord.ext import commands
 import random
