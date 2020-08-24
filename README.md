@@ -40,11 +40,12 @@ Başka kullanmak isteyen olursa diye nasıl kurulacağı ve kullanılacağı:
 
 Botu çalıştırmak için fatedc.py dosyasını açmanız/çalıştırmanız yeterli
  Şu an botta olan komutlar şu şekilde:
- >!zarat            #4 adet Fate zarı atıyor.
- 
- >!yzarat +x        #4 adet Fate zarına yanına eklenen - veya + değeri ekliyor.
- 
- >!karakterAl link  #kaderoyunu.com'daki karakter özelliklerini alıp yazı kanalına resim olarak atıyor.
+ 4 adet Fate zarı atmak için:
+ >!zarat            
+ 4 adet Fate zarına yanına eklenen - veya + değeri eklemek için:
+ >!yzarat +x        
+ kaderoyunu.com'daki karakter özelliklerini alıp yazı kanalına resim olarak atmak için:
+ >!karakterAl link  
 
  Örnekler:
  
